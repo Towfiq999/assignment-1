@@ -77,15 +77,15 @@ ul li{
 ul li a{
 text-decoration: none;
 }
-.btn-primary{
+
+.backup-btn{
     background-color:#4E47FF;
+    color: aliceblue;
 font-size: x-large;
-font: white;
 font-weight: bold;
 padding:18px;
 border-radius: 10px;
 border: none;
-
 }
 
 /* main style */
@@ -101,10 +101,11 @@ border: none;
    padding-top: 30px;
    padding-bottom: 30px;
 }
-.image{
-    border-radius: 15px;
+.image img{
+    border-radius: 25px;
 
 }
+
 
 
 
