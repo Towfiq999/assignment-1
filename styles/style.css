@@ -105,6 +105,35 @@ border: none;
     border-radius: 25px;
 
 }
+.productive-users-title{
+    text-align: center;
+     background-color: #e9e8f6;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 15px;
+    padding:50px 10px;
+    font-size: x-large;
+
+}
+
+.productive-users{
+    display: flex;
+    justify-content:space-around;
+    background-color: #e9e8f6;
+    
+    border-radius: 15px;
+    margin-top: 0px;
+    
+   
+
+}
+.numbers{
+color: #241de5;
+
+}
+.number-info{
+    color: #8988af;
+}
 
 
 
