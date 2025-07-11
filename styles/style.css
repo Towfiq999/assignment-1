@@ -47,7 +47,7 @@ text-decoration: none;
 .backup-btn{
     background-color:#4E47FF;
     color: aliceblue;
-font-size: x-large;
+font-size: 20px;
 font-weight: bold;
 padding:18px;
 border-radius: 10px;
@@ -161,7 +161,7 @@ padding: 15px;
 
  input[type="text"]{
     
-    height: 65px;
+    height: 30px;
     border-radius: 10px;
     background-color: white;
     display: block;
@@ -179,8 +179,11 @@ padding: 15px;
     padding:10px 20px ;
     
 }
-.xtra{
+/* .xtra{
     width: 100%;
+} */
+.width{
+    width: 120%;
 }
 
 .focus-pad{
@@ -215,8 +218,12 @@ padding: 15px;
 .focus-pad-full{
     background-color: #e9e8f6;
 }
-
-
+/* .custom-form {
+  height: 400px;   
+  min-height: 100px; 
+  max-height: 600px;   
+  overflow-y: auto;   
+} */
 .footer{
     justify-items: center;
     background-color:#e9e8f6;
@@ -226,7 +233,7 @@ padding: 15px;
     padding-left: 70px;
     padding-right: 70px;
    
-    font-size: xx-large;
+    font-size:x-large;
 
 }
 .footer-anchor-tag{
