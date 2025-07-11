@@ -135,6 +135,35 @@ color: #241de5;
     color: #8988af;
 }
 
+.comment-img{
+  border-radius: 50px;
+}
+.comment-info{
+    display: flex;
+}
+.full-comment-div{
+width: 300px;
+background-color: #e9e8f6;
+border-radius: 10px;
+padding: 15px;
+
+
+}
+.circle-img{
+    border-radius: 50%;
+    height: 20%;
+    margin-top: 10px;
+}
+.full-comment-div-final{
+    display: flex;
+    justify-content: space-around;
+}
+.comment-section-title{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
 
 
 
