@@ -169,6 +169,41 @@ padding: 15px;
 .xtra{
     width: 100%;
 }
+
+.focus-pad{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.focus-pad-title
+{
+    /* margin-top: 60px; */
+    font-size: 60px;
+    margin-bottom: 90px;
+    padding-top: 60px;
+}
+.focus-pad-subtitle{
+    font-size: 25px;
+}
+
+.big-png{
+    border-radius: 25px;
+    /* margin-left: 330px;
+    margin-right: 320px;
+    padding: auto;
+    margin-bottom: 80px; */
+}
+.big-png-div{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+    padding: 60px;
+}
+
+.focus-pad-full{
+    background-color: #e9e8f6;
+}
+
+
 .footer{
     justify-items: center;
     background-color:#e9e8f6;
